@@ -1,0 +1,31 @@
+score_front_d.npy is saved
+score_front_IR.npy is saved
+score_top_d.npy is saved
+score_top_IR.npy is saved
+Mode: Top(D):      Best Acc: 84.16 | Threshold: 0.58 | AUC: 0.8762
+View: Top(D)(post-processed):       Best Acc: 84.2 | Threshold: 0.58 | AUC: 0.8778 
+
+Mode: Top(IR):      Best Acc: 84.16 | Threshold: 0.58 | AUC: 0.8762
+View: Top(IR)(post-processed):       Best Acc: 84.2 | Threshold: 0.58 | AUC: 0.8778 
+
+Mode: Top(DIR):      Best Acc: 84.16 | Threshold: 0.58 | AUC: 0.8762
+View: Top(DIR)(post-processed):       Best Acc: 84.2 | Threshold: 0.58 | AUC: 0.8778 
+
+Mode: Front(D):      Best Acc: 84.16 | Threshold: 0.58 | AUC: 0.8762
+View: Front(D)(post-processed):       Best Acc: 84.2 | Threshold: 0.58 | AUC: 0.8778 
+
+Mode: Front(IR):      Best Acc: 84.16 | Threshold: 0.58 | AUC: 0.8762
+View: Front(IR)(post-processed):       Best Acc: 84.2 | Threshold: 0.58 | AUC: 0.8778 
+
+Mode: Front(DIR):      Best Acc: 84.16 | Threshold: 0.58 | AUC: 0.8762
+View: Front(DIR)(post-processed):       Best Acc: 84.2 | Threshold: 0.58 | AUC: 0.8778 
+
+Mode: Fusion(D):      Best Acc: 84.16 | Threshold: 0.58 | AUC: 0.8762
+View: Fusion(D)(post-processed):       Best Acc: 84.2 | Threshold: 0.58 | AUC: 0.8778 
+
+Mode: Fusion(IR):      Best Acc: 84.16 | Threshold: 0.58 | AUC: 0.8762
+View: Fusion(IR)(post-processed):       Best Acc: 84.2 | Threshold: 0.58 | AUC: 0.8778 
+
+Mode: Fusion(DIR):      Best Acc: 84.16 | Threshold: 0.58 | AUC: 0.8762
+View: Fusion(DIR)(post-processed):       Best Acc: 84.2 | Threshold: 0.58 | AUC: 0.8778 
+

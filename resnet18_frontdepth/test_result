@@ -1,0 +1,33 @@
+==========================================Loading Normal Data==========================================
+Front depth view is done (size: 93750)
+Front IR view is done (size: 93750)
+Top depth view is done (size: 93750)
+Top IR view is done (size: 93750)
+============================================START EVALUATING============================================
+Mode: Top(D):      Best Acc: 84.87 | Threshold: 0.91 | AUC: 0.8811
+View: Top(D)(post-processed):       Best Acc: 84.96 | Threshold: 0.91 | AUC: 0.883 
+
+Mode: Top(IR):      Best Acc: 84.87 | Threshold: 0.91 | AUC: 0.8811
+View: Top(IR)(post-processed):       Best Acc: 84.96 | Threshold: 0.91 | AUC: 0.883 
+
+Mode: Top(DIR):      Best Acc: 84.87 | Threshold: 0.91 | AUC: 0.8811
+View: Top(DIR)(post-processed):       Best Acc: 84.96 | Threshold: 0.91 | AUC: 0.883 
+
+Mode: Front(D):      Best Acc: 84.87 | Threshold: 0.91 | AUC: 0.8811
+View: Front(D)(post-processed):       Best Acc: 84.96 | Threshold: 0.91 | AUC: 0.883 
+
+Mode: Front(IR):      Best Acc: 84.87 | Threshold: 0.91 | AUC: 0.8811
+View: Front(IR)(post-processed):       Best Acc: 84.96 | Threshold: 0.91 | AUC: 0.883 
+
+Mode: Front(DIR):      Best Acc: 84.87 | Threshold: 0.91 | AUC: 0.8811
+View: Front(DIR)(post-processed):       Best Acc: 84.96 | Threshold: 0.91 | AUC: 0.883 
+
+Mode: Fusion(D):      Best Acc: 84.87 | Threshold: 0.91 | AUC: 0.8811
+View: Fusion(D)(post-processed):       Best Acc: 84.96 | Threshold: 0.91 | AUC: 0.883 
+
+Mode: Fusion(IR):      Best Acc: 84.87 | Threshold: 0.91 | AUC: 0.8811
+View: Fusion(IR)(post-processed):       Best Acc: 84.96 | Threshold: 0.91 | AUC: 0.883 
+
+Mode: Fusion(DIR):      Best Acc: 84.87 | Threshold: 0.91 | AUC: 0.8811
+View: Fusion(DIR)(post-processed):       Best Acc: 84.96 | Threshold: 0.91 | AUC: 0.883 
+

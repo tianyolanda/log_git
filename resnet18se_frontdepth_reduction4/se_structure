@@ -1,0 +1,511 @@
+time_pre 0.000186
+time_model 0.018277
+time_sim 0.006209
+time_all 0.024672
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_27.png | score: 0.71 | Action: Distracted
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+time_pre 0.000199
+time_model 0.018282
+time_sim 0.006231
+time_all 0.024712
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_28.png | score: 0.71 | Action: Distracted
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+time_pre 0.000198
+time_model 0.018196
+time_sim 0.0063
+time_all 0.024694
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_29.png | score: 0.71 | Action: Distracted
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+time_pre 0.000196
+time_model 0.018166
+time_sim 0.006305
+time_all 0.024666
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_30.png | score: 0.71 | Action: Distracted
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+time_pre 0.000186
+time_model 0.018168
+time_sim 0.006312
+time_all 0.024666
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_31.png | score: 0.71 | Action: Distracted
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+time_pre 0.000187
+time_model 0.018171
+time_sim 0.006311
+time_all 0.024668
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_32.png | score: 0.71 | Action: Distracted
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 64, 8, 28, 28])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=64, out_features=16, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=16, out_features=64, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 128, 4, 14, 14])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=32, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=32, out_features=128, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 256, 2, 7, 7])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=256, out_features=64, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=64, out_features=256, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+out.size() torch.Size([1, 512, 1, 4, 4])
+SELayer(
+  (avg_pool): AdaptiveAvgPool3d(output_size=1)
+  (fc): Sequential(
+    (0): Linear(in_features=512, out_features=128, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=128, out_features=512, bias=True)
+    (3): Sigmoid()
+  )
+)
+

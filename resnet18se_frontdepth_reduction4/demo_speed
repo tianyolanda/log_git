@@ -1,0 +1,221 @@
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_99.png | score: 0.72 | Action: Distracted
+time_pre 0.000191
+time_model 0.018309
+time_sim 0.006493
+time_all 0.024992
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_100.png | score: 0.72 | Action: Distracted
+time_pre 0.000186
+time_model 0.018361
+time_sim 0.006427
+time_all 0.024975
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_101.png | score: 0.72 | Action: Distracted
+time_pre 0.000189
+time_model 0.018568
+time_sim 0.006292
+time_all 0.025049
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_102.png | score: 0.72 | Action: Distracted
+time_pre 0.00019
+time_model 0.01831
+time_sim 0.006504
+time_all 0.025004
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_103.png | score: 0.72 | Action: Distracted
+time_pre 0.000191
+time_model 0.018225
+time_sim 0.006514
+time_all 0.02493
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_104.png | score: 0.72 | Action: Distracted
+time_pre 0.000193
+time_model 0.018385
+time_sim 0.006513
+time_all 0.025092
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_105.png | score: 0.72 | Action: Distracted
+time_pre 0.000206
+time_model 0.018543
+time_sim 0.006533
+time_all 0.025282
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_106.png | score: 0.72 | Action: Distracted
+time_pre 0.000185
+time_model 0.018275
+time_sim 0.006539
+time_all 0.024999
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_107.png | score: 0.72 | Action: Distracted
+time_pre 0.000189
+time_model 0.018431
+time_sim 0.006321
+time_all 0.02494
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_108.png | score: 0.72 | Action: Distracted
+time_pre 0.000191
+time_model 0.018259
+time_sim 0.006535
+time_all 0.024986
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_109.png | score: 0.72 | Action: Distracted
+time_pre 0.000186
+time_model 0.018216
+time_sim 0.006541
+time_all 0.024942
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_110.png | score: 0.72 | Action: Distracted
+time_pre 0.000187
+time_model 0.018231
+time_sim 0.006527
+time_all 0.024945
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_111.png | score: 0.72 | Action: Distracted
+time_pre 0.000185
+time_model 0.01825
+time_sim 0.006511
+time_all 0.024946
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_112.png | score: 0.72 | Action: Distracted
+time_pre 0.000183
+time_model 0.018283
+time_sim 0.006522
+time_all 0.024988
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_113.png | score: 0.72 | Action: Distracted
+time_pre 0.000189
+time_model 0.018253
+time_sim 0.006526
+time_all 0.024968
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_114.png | score: 0.72 | Action: Distracted
+time_pre 0.000187
+time_model 0.018242
+time_sim 0.006512
+time_all 0.024941
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_115.png | score: 0.72 | Action: Distracted
+time_pre 0.000213
+time_model 0.018364
+time_sim 0.006517
+time_all 0.025094
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_116.png | score: 0.72 | Action: Distracted
+time_pre 0.000184
+time_model 0.018258
+time_sim 0.006528
+time_all 0.024971
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_117.png | score: 0.72 | Action: Distracted
+time_pre 0.000192
+time_model 0.01848
+time_sim 0.006409
+time_all 0.025082
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_118.png | score: 0.73 | Action: Distracted
+time_pre 0.000197
+time_model 0.018514
+time_sim 0.006469
+time_all 0.025179
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_119.png | score: 0.73 | Action: Distracted
+time_pre 0.000195
+time_model 0.018502
+time_sim 0.006458
+time_all 0.025154
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_120.png | score: 0.73 | Action: Distracted
+time_pre 0.000198
+time_model 0.018553
+time_sim 0.006457
+time_all 0.025208
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_121.png | score: 0.73 | Action: Distracted
+time_pre 0.000197
+time_model 0.018493
+time_sim 0.006457
+time_all 0.025147
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_122.png | score: 0.73 | Action: Distracted
+time_pre 0.000193
+time_model 0.018497
+time_sim 0.006461
+time_all 0.025151
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_123.png | score: 0.73 | Action: Distracted
+time_pre 0.000192
+time_model 0.018555
+time_sim 0.006433
+time_all 0.025181
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_124.png | score: 0.73 | Action: Distracted
+time_pre 0.00019
+time_model 0.018506
+time_sim 0.006464
+time_all 0.02516
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_125.png | score: 0.73 | Action: Distracted
+time_pre 0.00019
+time_model 0.018522
+time_sim 0.006428
+time_all 0.025141
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_126.png | score: 0.73 | Action: Distracted
+time_pre 0.000197
+time_model 0.018472
+time_sim 0.006463
+time_all 0.025132
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_127.png | score: 0.73 | Action: Distracted
+time_pre 0.000199
+time_model 0.018518
+time_sim 0.006458
+time_all 0.025175
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_128.png | score: 0.72 | Action: Distracted
+time_pre 0.00019
+time_model 0.018521
+time_sim 0.006455
+time_all 0.025167
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_129.png | score: 0.72 | Action: Distracted
+time_pre 0.000193
+time_model 0.018506
+time_sim 0.006448
+time_all 0.025147
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_130.png | score: 0.72 | Action: Distracted
+time_pre 0.000195
+time_model 0.018651
+time_sim 0.006609
+time_all 0.025455
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_131.png | score: 0.72 | Action: Distracted
+time_pre 0.000194
+time_model 0.01827
+time_sim 0.006547
+time_all 0.025012
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_132.png | score: 0.72 | Action: Distracted
+time_pre 0.000185
+time_model 0.018272
+time_sim 0.006505
+time_all 0.024963
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_133.png | score: 0.72 | Action: Distracted
+time_pre 0.000186
+time_model 0.018287
+time_sim 0.006469
+time_all 0.024942
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_134.png | score: 0.72 | Action: Distracted
+time_pre 0.000227
+time_model 0.018683
+time_sim 0.006407
+time_all 0.025317
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_135.png | score: 0.72 | Action: Distracted
+time_pre 0.0002
+time_model 0.018541
+time_sim 0.006443
+time_all 0.025183
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_136.png | score: 0.73 | Action: Distracted
+time_pre 0.00019
+time_model 0.018215
+time_sim 0.006499
+time_all 0.024904
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_137.png | score: 0.73 | Action: Distracted
+time_pre 0.000196
+time_model 0.018319
+time_sim 0.006519
+time_all 0.025033
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_138.png | score: 0.73 | Action: Distracted
+time_pre 0.000195
+time_model 0.018302
+time_sim 0.006508
+time_all 0.025006
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_139.png | score: 0.73 | Action: Distracted
+time_pre 0.000192
+time_model 0.018342
+time_sim 0.006512
+time_all 0.025046
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_140.png | score: 0.73 | Action: Distracted
+time_pre 0.00019
+time_model 0.018333
+time_sim 0.006514
+time_all 0.025036
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_141.png | score: 0.73 | Action: Distracted
+time_pre 0.000201
+time_model 0.019139
+time_sim 0.006302
+time_all 0.025642
+Img: /home/ubuntu/datasets/DADdataset/DAD/DAD/val01/rec1/front_depth/img_142.png | score: 0.74 | Action: Distracted
+time_pre 0.000192
+time_model 0.018403
+time_sim 0.006453
+time_all 0.025048
+
